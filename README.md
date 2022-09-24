@@ -1,2 +1,2 @@
-# nc-components-base-react-native
-NC Button Component React - Javascript, TypeScript
+# NC Components Base + Props Styles - React Native
+- NC Components Base + Props Styles - React Native - Javascript, TypeScript
